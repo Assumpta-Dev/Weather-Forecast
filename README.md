@@ -18,3 +18,5 @@ Designed a simple and responsive interface
 
 What I learned:
 API integration, asynchronous programming, and improving user experience through clean data presentation.
+
+Live demo: https://weather-forecast-app-by-assumpta.netlify.app/
